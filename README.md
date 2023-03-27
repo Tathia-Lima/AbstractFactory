@@ -8,4 +8,4 @@ A classe FabricaAbstrata representa a interface que define as operações de cri
 
 As classes FabricaClinica e FabricaConsultorio são as fábricas concretas que implementam essa interface e são responsáveis por criar os objetos relacionados.
 
-
+# Diagrama de Classe
